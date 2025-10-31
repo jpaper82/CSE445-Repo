@@ -26,7 +26,7 @@
 	<Hotel Rating="4.5">
 		<Name>Westin</Name>
 		<Phone>480-968-3451</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>1333</Number>
 			<Street>S Rural Rd</Street>
 			<City>Tempe</City>
@@ -115,4 +115,5 @@
 		</Address>
 	</Hotel>
 	
+
 </Hotels>
